@@ -1,7 +1,8 @@
 # Stock-Direction-Prediction
 https://stock-direction-prediction.onrender.com/
 
-Stock Prediction App Usage and Installation Guide
+#### Stock Prediction App Usage and Installation Guide
+
 This guide provides step-by-step instructions for installing and using the Stock Prediction Web Application, which predicts the next day's stock price direction (Up or Down) for a given ticker symbol using historical data and machine learning.
 
 ______________________________________________________________________________________________________________________________________________________________
