@@ -1,4 +1,6 @@
 # Stock-Direction-Prediction
+https://stock-direction-prediction.onrender.com/
+
 Stock Prediction App Usage and Installation Guide
 This guide provides step-by-step instructions for installing and using the Stock Prediction Web Application, which predicts the next day's stock price direction (Up or Down) for a given ticker symbol using historical data and machine learning.
 
@@ -161,5 +163,5 @@ ________________________________________________________________________________
   - Stop the server by pressing Ctrl+C in the terminal where app.py is running.
  __________________________________________________________________________________________________________________________________________________________________
 
-This guide should help you successfully install and use the Stock Prediction Web Application. For further assistance, consult the documentation of the libraries used or reach out to the developer.
+This guide should help you successfully install and use the Stock Prediction Web Application. For further assistance, consult the documentation of the libraries used or reach out to the developer. Your application should look like this: https://stock-direction-prediction.onrender.com/ 
 
