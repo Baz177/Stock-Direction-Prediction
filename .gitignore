@@ -1,0 +1,8 @@
+historical_data_1d.py 
+historical_data_5y.py
+predict_direction.py
+predict_price.py
+price_analysis.py 
+test.py
+__pycache__
+.ibkr
